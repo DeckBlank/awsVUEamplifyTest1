@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "productosfront9e6f29ec": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

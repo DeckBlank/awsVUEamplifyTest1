@@ -10,6 +10,11 @@
       "StackName": "amplify-productosfront-dev-191335",
       "StackId": "arn:aws:cloudformation:us-east-1:981913263082:stack/amplify-productosfront-dev-191335/29660c30-7635-11eb-91b0-0afe492705d7",
       "AmplifyAppId": "d3orq3wgyn088z"
+    },
+    "categories": {
+      "auth": {
+        "productosfront9e6f29ec": {}
+      }
     }
   }
 }
