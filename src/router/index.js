@@ -29,3 +29,5 @@ const router = createRouter({
 });
 
 export default router;
+
+// to fix router in aws https://docs.aws.amazon.com/amplify/latest/userguide/redirects.html
